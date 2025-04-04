@@ -13,9 +13,19 @@ h1{
 
 #para2{
     color: blueviolet;
-    background-color: aqua;
+    background-color: rgb(255, 187, 0);
+    /* border-width: 10px;
+    border-style: double;
+    border-color: black; */
+    border: 10px double black ;
+    text-align: center;
+    border-radius: 100px;
+    /* padding-left: 500px; */
+    /* padding: 10px; */
+    /* margin: 30px; */
 }
 .para1{
     color: yellow;
     background-color: palegreen;
+    border: 10px double black;
 }
